@@ -9,7 +9,7 @@ function panggilObject() {
     }
 
     // console.log(mobil);
-    console.log(mobil.merk);
+    console.log(mobil);
     // console.log("<br>");
     // 
     console.log(mobil.tahun[1]);
