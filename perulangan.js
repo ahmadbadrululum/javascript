@@ -34,7 +34,7 @@ function panggilPerulangan() {
 }
 // kesimpulan
 
-// ========= KESIMPULAN 
+// ========= KESIMPULAN
 
 // Perintah FOR :  DAPAT  melakukan perulangan berdasarkan jumlah yang ditentukan, sedangkan forEach dan Map Tidak bisa.
 // Perintah FOR,  forEach dan Map : DAPAT perulangan berdasarkan data pajang dari sebuah array
